@@ -5,18 +5,6 @@ project-g17 created by GitHub Classroom
 
 
 
-# Quality attributes
-
-| ID   | Quality Attribute | Scenario | Associated Use Case |
-| ---- | ----------------- | -------- | ------------------- |
-| QA-1 |                   |          |                     |
-|      |                   |          |                     |
-|      |                   |          |                     |
-
-
-
-
-
 # Constraints
 
 | ID    | Constraint                                                   |
@@ -30,14 +18,4 @@ project-g17 created by GitHub Classroom
 | CON-7 | The system shall be interoperable with secondary university systems |
 | CON-8 | the system must provide security and allow students to log in and privacy must be protected |
 |       |                                                              |
-
-
-
-# Concerns
-
-| CRN- |      |
-| ---- | ---- |
-| CRN- |      |
-| CRN- |      |
-| CRN- |      |
 
