@@ -1,10 +1,10 @@
 # Iteration 1: Establishing an overall System Structure
 
-### Step 2: Establish Iteration Goal by Selecting Drivers
+#### Step 2: Establish Iteration Goal by Selecting Drivers
 
 The iteration goal is to establish an overall system structure
 
-Step 3: Choose one or more elements of the System to Refine
+#### Step 3: Choose one or more elements of the System to Refine
 
 #### Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
 
@@ -14,5 +14,8 @@ Step 3: Choose one or more elements of the System to Refine
 | three-tier distributed deployment                            | Allows flexibility in regards to components residing in different tiers. Allows scalability as more tiers can be added. Adds security with firewalls between layers and security policies may be added to tiers.  Database can be stored in a layer separate from the application. |
 |                                                              |                                                              |
 
+#### Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
+#### Step 6: Sketch Views and Record Design Decisions 
 
+#### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
