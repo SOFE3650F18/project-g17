@@ -1,17 +1,5 @@
 # Iteration 1: Establishing an overall System Structure
 
-## ADD Step 1: Review Inputs
-
-
-
-| category                        | Details                                                      |
-| ------------------------------- | ------------------------------------------------------------ |
-| Design purpose                  | This is a greenfield system in mature domains which is a new system based on existing patterns and styles |
-| Primary functional requirements |                                                              |
-|                                 |                                                              |
-
-
-
 ### Step 2: Establish Iteration Goal by Selecting Drivers
 
 The iteration goal is to establish an overall system structure
