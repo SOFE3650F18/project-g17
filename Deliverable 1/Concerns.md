@@ -1,5 +1,8 @@
-1. CRN1- establish overall system structure
-2. CRN2- exception management
-3. CRN3- authentication of users
-4. CRN4- server load
-5. CRN5- minimal downtime
+| ID    | Concern                            |
+| ----- | ---------------------------------- |
+| CRN-1 | Establish overall system structure |
+| CRN-2 | Exception management               |
+| CRN-3 | Authentication of users            |
+| CRN-4 | Server load                        |
+| CRN-5 | Management of downtime             |
+
