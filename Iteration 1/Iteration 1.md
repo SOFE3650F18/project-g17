@@ -8,7 +8,7 @@ This section is driven mostly by CRN-1, however all drivers from step 1 are rele
 
 Since it is a greenfield development, the element being refined is the entire CMS system.
 
-![alt text](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%201/Context%20Diagram%20for%20CMS%20System.PNG "Context diagram for CMS system")
+![alt text](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%201/Context%20Diagram%20for%20CMS%20System.png "Context diagram for CMS system")
 
 #### Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
 
