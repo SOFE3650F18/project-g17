@@ -9,7 +9,7 @@
 | Architectural Concerns          | All previously mentioned concerns are included as drivers    |
 
 
-# Figure 1
+##### Figure 1
 | Scenario ID | Importance to Stakeholder | Implementation Difficulty |
 | ----------- | ------------------------- | ------------------------- |
 | QA-1        | Medium                    | Medium                    |
