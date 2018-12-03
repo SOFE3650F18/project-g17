@@ -19,6 +19,9 @@
 | UC-15: Generate statistics and surveys                       | 110-117          | Calculate multiple different grade statistics per course / department, and evaluate courses with web-surveys. |
 | UC-16: (Automatically) Synchronize with secondary university systems | 119-120          | Disallow modification of information used and maintained by secondary university systems, and synchronize this system with secondary systems. |
 
+### Use Case Diagram
+![alt text](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Deliverable%201/Use%20Case%20Diagram.png)
+
 ### Quality Attribute Scenarios
 
 | ID   | Quality Attribute                | Scenario                                                     | Associated Use Case |
