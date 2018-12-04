@@ -68,7 +68,7 @@ Since it is a greenfield development, the element being refined is the entire CM
 
 #### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 
-| Not Addressed | Partially Adressed | Completely Addressed | Design Decisions Made During the Iteration                   |
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration                   |
 | ------------- | ------------------ | -------------------- | ------------------------------------------------------------ |
 | UC-1          |                    |                      | N/A                                                          |
 | UC-3          |                    |                      | N/A                                                          |
