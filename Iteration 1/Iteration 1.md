@@ -79,7 +79,7 @@ Since it is a greenfield development, the element being refined is the entire CM
 |               | QA-2               |                      | Use of web application architecture to increase system security |
 |               | QA-3               |                      | Use of Angular JS to limit number of clicks to any content   |
 | QA-4          |                    |                      | N/A                                                          |
-| CON-1         |                    |                      | N/A                                                          |
+|               | CON-1              |                      | Use of web application architecture to increase system security |
 |               |                    | CON-2                | Decision on front end reference architecture, web application reference architecture |
 |               | CON-3              |                      | Use of Angular JS to limit number of clicks to any content, and decision on three-layer style |
 | CON-4         |                    |                      | N/A                                                          |
