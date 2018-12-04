@@ -14,7 +14,7 @@ The elements being refined are the modules described in Modular View diagram fro
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Create a domain model for the application                    | A domain model is necessary for proper decomposition of the system. |
 | Identify domain objects that map to functional requirements  | Every functional element of the application (Each use case) needs to have it's own building block / domain object. |
-| Decompose domain objects into general and specialized components | A domain object is a complete set of functionality. We want to breakdown there into smaller elements called components (referred to as modules previously). |
+| Decompose domain objects into general and specialized components | A domain object is a complete set of functionality. We want to break them down into smaller elements, components (referred to as modules previously). |
 | Use RESTful API  to connect to and query an ASP.NET based database | ASP.NET comes with built in API functionality, making it easy to use a RESTful API as our connection mechanism. REST is relatively lightweight and easy to use with different database types. |
 
 #### Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
