@@ -84,7 +84,7 @@ Since it is a greenfield development, the element being refined is the entire CM
 |               | CON-3              |                      | Use of Angular JS to limit number of clicks to any content, and decision on three-layer style |
 | CON-4         |                    |                      | N/A                                                          |
 | CON-5         |                    |                      | N/A                                                          |
-|               | CRN-1              |                      | Set overall design specifications                            |
+|               |                    | CRN-1                | Set overall design specifications                            |
 |               |                    | CRN-2                | Used team's knowledge and strengths to choose suitable architectures and design styles |
 | CRN-3         |                    |                      | N/A                                                          |
 
