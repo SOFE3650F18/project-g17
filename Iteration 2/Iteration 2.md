@@ -15,7 +15,7 @@ The elements being refined are the modules described in Modular View diagram fro
 | Create a domain model for the application                    | A domain model is necessary for proper decomposition of the system. |
 | Identify domain objects that map to functional requirements  | Every functional element of the application (Each use case) needs to have it's own building block / domain object. |
 | Decompose domain objects into general and specialized components | A domain object is a complete set of functionality. We want to breakdown there into smaller elements called components (referred to as modules previously). |
-| Use RESTful API  to connect to and query an ASP.NET based database | AngularJS (framework used to build the interface) also has built in functionality to connect with databases. This functionality was determined to be the best option as it works well with the interface, and reduces the number of different external frameworks being used. <br>ASP.NET server was chosen since AngularJS has native functionality with this web server. It is also open source, allowing us to keep the total cost down.</br> |
+| Use RESTful API  to connect to and query an ASP.NET based database | ASP.NET comes with built in API functionality, making it easy to use a RESTful API as our connection mechanism. REST is relatively lightweight and easy to use with different database types. |
 
 #### Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
