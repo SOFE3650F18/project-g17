@@ -58,16 +58,25 @@ The elements being refined are the modules described in Modular View diagram fro
 | SecondarySystemConnector  | Responsible for communication with secondary systems. It abstracts operations such that it can connect with any number of different secondary systems. |
 
 ##### UC-1: Sequence Diagram
+
+Initial sequence diagram for UC-1,  retrieve and display course information. 
+
 ![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC1%20Sequence%20Diagram.PNG)
 ##### UC-3: Sequence Diagram
+
+Initial sequence diagram for UC-3,  access course-wide messaging system.
+
 ![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC3%20Sequence%20Diagram.PNG)
 ##### UC-4: Sequence Diagram
+
+Initial sequence diagram for UC-4,  access group and file sharing system.
+
 ![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC4%20Sequence%20Diagram.PNG)
 ##### UC-7: Sequence Diagram
 
-##### UC-10: Sequence Diagram
+Initial sequence diagram for UC-7,  modify course details. User first sends view request to CourseInformationView, then to CourseManagementView. CourseManagementView checks if user has permission to edit course information, and returns boolean. 
 
-##### UC-16: Sequence Diagram
+![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC7%20Sequence%20Diagram.PNG)
 
 #### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 
