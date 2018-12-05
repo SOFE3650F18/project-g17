@@ -60,7 +60,7 @@ The elements being refined are the modules described in Modular View diagram fro
 ##### UC-1: Sequence Diagram
 ![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC1%20Sequence%20Diagram.PNG)
 ##### UC-3: Sequence Diagram
-
+![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC3%20Sequence%20Diagram.PNG)
 ##### UC-4: Sequence Diagram
 
 ##### UC-7: Sequence Diagram
