@@ -72,9 +72,9 @@ Initial sequence diagram for UC-3,  access course-wide messaging system.
 Initial sequence diagram for UC-4,  access group and file sharing system.
 
 ![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC4%20Sequence%20Diagram.PNG)
-##### UC-7: Sequence Diagram
+##### UC-7/10: Sequence Diagram
 
-Initial sequence diagram for UC-7,  modify course details. User first sends view request to CourseInformationView, then to CourseManagementView. CourseManagementView checks if user has permission to edit course information, and returns boolean. 
+Initial sequence diagram for UC-7/10,  modify course details. User first sends view request to CourseInformationView, then to CourseManagementView. CourseManagementView checks if user has permission to edit course information, and returns boolean. 
 
 ![](https://raw.githubusercontent.com/SOFE3650F18/project-g17/master/Iteration%202/UC7%20Sequence%20Diagram.PNG)
 
