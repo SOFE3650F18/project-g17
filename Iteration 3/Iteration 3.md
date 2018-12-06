@@ -38,6 +38,7 @@ The elements being refined are the application server and the database server.
 #### Step 6: Sketch Views and Record Design Decisions 
 
 ![alt text](https://github.com/SOFE3650F18/project-g17/blob/master/Iteration%203/Class%20Diagram1.jpg)
+![alt text](https://github.com/SOFE3650F18/project-g17/blob/master/Iteration%203/discoverservice.jpg)
 
 
 
@@ -50,6 +51,8 @@ The elements being refined are the application server and the database server.
 |                  |                                                              |
 
 #### 
+
+
 
 #### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 
