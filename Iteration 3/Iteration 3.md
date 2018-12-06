@@ -39,7 +39,7 @@ The elements being refined are the application server and the database server.
 
 
 
-The Spring Security framework is added as a component. There is a Security Manager Module that connects to the Presentation layer, business layer and Data Access layer. This prevents access to data of unauthorized users as they must be authenticated by the Security Manager before gaining access to the data. 
+The Spring Security framework is added as a component. A Security Manager Module is added that connects to the Presentation layer, business layer and Data Access layer. This prevents access to data of unauthorized users as they must be authenticated by the Security Manager before gaining access to the data. 
 
 
 
