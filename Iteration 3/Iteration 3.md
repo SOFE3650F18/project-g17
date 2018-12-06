@@ -1,4 +1,4 @@
-# Iteration 3: Addressing Quality Attribute Scenario Driver (QA-)
+# Iteration 3: Addressing Quality Attribute Scenario Driver (QA2)
 
 In this iteration we want to refine previously created structures to address the remaining drivers. Tactics, Deployment patterns and Architectural patterns will be used.
 
@@ -60,5 +60,5 @@ The elements being refined are the application server and the database server.
 |               | QA-4                |                      | The use case related to this QA has been identified.         |
 |               |                     | CON-1                | Security Manager module implemented                          |
 |               | CON-3               |                      | No relevant decisions made                                   |
-|               | CON-4               |                      | The data abstraction module for secondary systems has been identified. |
-|               | CON-5               |                      | The data abstraction module for secondary systems has been identified. |
+|               | CON-4               |                      | No relevant decisions made |
+|               | CON-5               |                      | No relevant decisions made  |
