@@ -37,7 +37,18 @@ The elements being refined are the application server and the database server.
 
 #### Step 6: Sketch Views and Record Design Decisions 
 
+
+
+The Spring Security framework is added as a component. There is a Security Manager Module that connects to the Presentation layer, business layer and Data Access layer. This prevents access to data of unauthorized users as they must be authenticated by the Security Manager before gaining access to the data. 
+
+
+
 ![alt text](https://github.com/SOFE3650F18/project-g17/blob/master/Iteration%203/Class%20Diagram1.jpg)
+
+The Sequence diagram below shows the sequence of interactions that take place when the user uses the DiscoverService element to search for a file or directory. The rationale behind including this element was that it is a way of addressing the QA-3 and CON-3 that requires a three click maximum when a user wants to reach any content. 
+
+The alternative would be to either have a link to most major directories on all pages or another form of navigation that would provide easy access to directories. Implementing this would require restructuring of existing components so we decided against it. 
+
 ![alt text](https://github.com/SOFE3650F18/project-g17/blob/master/Iteration%203/discoverservice.jpg)
 
 
