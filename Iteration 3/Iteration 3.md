@@ -37,7 +37,7 @@ The elements being refined are the application server and the database server.
 
 #### Step 6: Sketch Views and Record Design Decisions 
 
-![1544061687351](C:\Users\100462146\AppData\Roaming\Typora\typora-user-images\1544061687351.png)
+![alt text](https://github.com/SOFE3650F18/project-g17/blob/master/Iteration%203/Class%20Diagram1.jpg)
 
 
 
